@@ -19,7 +19,7 @@
 #####Header five
 ######Header six
 
-- #### Colombian Symbolism in _One Hundred Years of Solitude_
+- ####Colombian Symbolism in _One Hundred Years of Solitude_
 
 ### Exercise 3: Links
 
